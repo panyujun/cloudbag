@@ -13,29 +13,29 @@
 					<key>url</key>
 					<string>https://vkceyugu.cdn.bspapp.com/VKCEYUGU-bdbb5488-f5e7-4d48-b07f-8c6975479ad3/775b9e99-f944-4e44-9024-5cd588e31209.ipa</string>
 				</dict>
-				<!-- <dict>
+				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.test.com/app/icon1.png</string>
+					<string>https://dimg04.c-ctrip.com/images/02072120009i7hfokA5A0.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.test.com/app/icon2.png</string>
-				</dict> -->
+					<string>https://img-cdn-aliyun.dcloud.net.cn/stream/icon/__UNI__6F23139.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
 				<string>uni.ctrip.cloudbag</string>
 				<key>bundle-version</key>
-				<string>141</string>
+				<string>1.4.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>client-mobile</string>
+				<string>行李配送</string>
 			</dict>
 		</dict>
 	</array>
